@@ -6,7 +6,6 @@
 - 🕶️ This is Vidushi Singh
 - 👾 Proficient in Java, C++, C. Learning Python 
 - 🔭 I’m currently working on Full Stack Web Development
-- 🌱 I’m currently learning BackEnd
 - 💬 Ask me about Cpp, Java,Front-End
 - 📫 How to reach me: https://www.linkedin.com/in/vidushi-singh-145972256/
 - 😄 Pronouns: She/Her
