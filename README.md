@@ -5,7 +5,7 @@
 
   #### link to Portfolio website right [here](https://vidushisingh56.github.io/Responsive/)
 - 🕶️ This is Vidushi Singh
-- 👾 Proficient in Java, C++, C. Learning Python 
+- 👾 Proficient in Java, C++, C Learning Python 
 - 🔭 I’m currently working on Full Stack Web Development
 - 💬 Ask me about Cpp, Java,Front-End
 - 📫 How to reach me: https://www.linkedin.com/in/vidushi-singh-145972256/
