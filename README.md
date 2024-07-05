@@ -3,7 +3,7 @@
 <!--
 **VidushiSingh56/VidushiSingh56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-  #### link to Portfolio website right [here][(https://vidushisingh56.github.io/PersonalPortfolio/)]
+  #### link to Portfolio website right [here](https://vidushisingh56.github.io/PersonalPortfolio/)
 - 🕶️ This is Vidushi Singh
 - 👾 Proficient in Java
 - 👯 I’m looking to collaborate on Android Development
